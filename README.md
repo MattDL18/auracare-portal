@@ -33,7 +33,7 @@ This project was built from scratch to demonstrate strong fundamental web develo
 ```
 
 ## 🚀 Live Demo
-*(You can paste your GitHub Pages link here once it is active! Example: `https://yourusername.github.io/auracare`)*
+*https://mattdl18.github.io/auracare-portal/*
 
 ## 👨‍💻 Author
 **Matteo Antonio C. De Leon**
