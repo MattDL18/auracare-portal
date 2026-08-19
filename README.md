@@ -1,3 +1,4 @@
+# This project is not associated with any Government or Official page, this is purely just a Homemade static website project and everything is fictional
 # AuraCare - Government Social Benefits Portal
 
 ![AuraCare Portal](images/logo.png)
